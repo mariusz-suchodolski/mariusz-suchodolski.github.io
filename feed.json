@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "/publii-and-building-custom-resumee-site-easy.html",
-            "url": "/publii-and-building-custom-resumee-site-easy.html",
+            "id": "/publii-and-building-custom-resumee-site-easy/",
+            "url": "/publii-and-building-custom-resumee-site-easy/",
             "title": "Publii and building custom resumee site? Easy :)",
             "summary": "Publii is one of those great static site generators that I personally prefer over Wordpress, Joomla and all those heavyweight CMS systems. Why? It lets you build a simple static website that saves you the hassle of updating it every-so-often. Compared to Wordpress, you have no&hellip;",
             "content_html": "<a href=\"https://getpublii.com/\">Publii</a> is one of those great static site generators that I personally prefer over Wordpress, Joomla and all those heavyweight CMS systems. Why? It lets you build a simple static website that saves you the hassle of updating it every-so-often. Compared to Wordpress, you have no ingress points for the attacker. SQL injection? There is no SQL DB. Stealing cookies? No cookies to be stolen anyways. The fact that it's basically all HTML makes it so great. You can compress everything, easily make it AMP friendly without the hassle of installing tons of plugins.",
