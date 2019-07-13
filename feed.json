@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Mariusz Suchodolski Blog",
     "description": "",
-    "home_page_url": "",
-    "feed_url": "/feed.json",
+    "home_page_url": "https://blog.suchodol.ski",
+    "feed_url": "https://blog.suchodol.ski/feed.json",
     "user_comment": "",
     "author": {
         "name": "Mariusz Suchodolski"
     },
     "items": [
         {
-            "id": "/publii-and-building-custom-resumee-site-easy/",
-            "url": "/publii-and-building-custom-resumee-site-easy/",
+            "id": "https://blog.suchodol.ski/publii-and-building-custom-resumee-site-easy/",
+            "url": "https://blog.suchodol.ski/publii-and-building-custom-resumee-site-easy/",
             "title": "Publii and building custom resumee site? Easy :)",
             "summary": "Publii is one of those great static site generators that I personally prefer over Wordpress, Joomla and all those heavyweight CMS systems. Why? It lets you build a simple static website that saves you the hassle of updating it every-so-often. Compared to Wordpress, you have no&hellip;",
             "content_html": "<a href=\"https://getpublii.com/\">Publii</a> is one of those great static site generators that I personally prefer over Wordpress, Joomla and all those heavyweight CMS systems. Why? It lets you build a simple static website that saves you the hassle of updating it every-so-often. Compared to Wordpress, you have no ingress points for the attacker. SQL injection? There is no SQL DB. Stealing cookies? No cookies to be stolen anyways. The fact that it's basically all HTML makes it so great. You can compress everything, easily make it AMP friendly without the hassle of installing tons of plugins.",
-            "image": "/media/posts/1/steven-erixon-ZgGQCCPBKag-unsplash.jpg",
+            "image": "https://blog.suchodol.ski/media/posts/1/steven-erixon-ZgGQCCPBKag-unsplash.jpg",
             "author": {
                 "name": "Mariusz Suchodolski"
             },

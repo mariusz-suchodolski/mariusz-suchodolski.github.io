@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Mariusz Suchodolski Blog</title>
-    <link href="/feed.xml" rel="self" />
-    <link href="" />
-    <updated>2019-06-27T08:39:54+02:00</updated>
+    <link href="https://blog.suchodol.ski/feed.xml" rel="self" />
+    <link href="https://blog.suchodol.ski" />
+    <updated>2019-07-13T17:11:03+02:00</updated>
     <author>
         <name>Mariusz Suchodolski</name>
     </author>
-    <id></id>
+    <id>https://blog.suchodol.ski</id>
 
     <entry>
         <title>Publii and building custom resumee site? Easy :)</title>
         <author>
             <name>Mariusz Suchodolski</name>
         </author>
-        <link href="/publii-and-building-custom-resumee-site-easy/"/>
-        <id>/publii-and-building-custom-resumee-site-easy/</id>
+        <link href="https://blog.suchodol.ski/publii-and-building-custom-resumee-site-easy/"/>
+        <id>https://blog.suchodol.ski/publii-and-building-custom-resumee-site-easy/</id>
 
         <updated>2019-06-26T22:40:37+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="/media/posts/1/steven-erixon-ZgGQCCPBKag-unsplash.jpg" alt="" />
+                        <img src="https://blog.suchodol.ski/media/posts/1/steven-erixon-ZgGQCCPBKag-unsplash.jpg" alt="" />
                     Publii is one of those great static site generators that I personally prefer over Wordpress, Joomla and all those heavyweight CMS systems. Why? It lets you build a simple static website that saves you the hassle of updating it every-so-often. Compared to Wordpress, you have no&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="/media/posts/1/steven-erixon-ZgGQCCPBKag-unsplash.jpg" alt="" />
+                    <img src="https://blog.suchodol.ski/media/posts/1/steven-erixon-ZgGQCCPBKag-unsplash.jpg" alt="" />
                 <a href="https://getpublii.com/">Publii</a> is one of those great static site generators that I personally prefer over Wordpress, Joomla and all those heavyweight CMS systems. Why? It lets you build a simple static website that saves you the hassle of updating it every-so-often. Compared to Wordpress, you have no ingress points for the attacker. SQL injection? There is no SQL DB. Stealing cookies? No cookies to be stolen anyways. The fact that it's basically all HTML makes it so great. You can compress everything, easily make it AMP friendly without the hassle of installing tons of plugins.
             ]]>
         </content>
